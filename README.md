@@ -1,1 +1,1 @@
-# 67564---Bayesian-Machine-Learning
+# 67564 - Bayesian Machine Learning
